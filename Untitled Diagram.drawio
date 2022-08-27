@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-27T10:58:22.920Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.63" etag="wEr0W_XLeTT94iWKS6gs" version="20.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-27T10:59:35.588Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.63" etag="cl8cN4pGAHl4JcE3iNab" version="20.2.7" type="github" pages="2">
   <diagram name="Operator" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1776" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFCFC" math="0" shadow="1">
       <root>
@@ -154,7 +154,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RlYxuOjdtr7DHh3LUo6h" name="Voter">
-    <mxGraphModel dx="1898" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="551" dy="302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -303,7 +303,7 @@
           <mxGeometry x="350" y="1360" width="140" height="95" as="geometry" />
         </mxCell>
         <mxCell id="9AZgSfdLY5VxS2SZ-R8a-78" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1160" y="710" width="1300" height="720" as="geometry" />
+          <mxGeometry x="1130" y="1070" width="1300" height="720" as="geometry" />
         </mxCell>
         <mxCell id="9AZgSfdLY5VxS2SZ-R8a-7" value="Register the Voter by capturing the Photo along with document proof like Aadhaar card,, pan card , time of registration and lace or polling booth where registered." style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="9AZgSfdLY5VxS2SZ-R8a-78">
           <mxGeometry width="360" height="130" as="geometry" />
@@ -347,13 +347,9 @@
         <mxCell id="9AZgSfdLY5VxS2SZ-R8a-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="9AZgSfdLY5VxS2SZ-R8a-78" source="9AZgSfdLY5VxS2SZ-R8a-17" target="9AZgSfdLY5VxS2SZ-R8a-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9AZgSfdLY5VxS2SZ-R8a-81">
+        <mxCell id="VhGnKwX6kAZQi_XrQKIG-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9AZgSfdLY5VxS2SZ-R8a-81">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1260" y="836.9230769230769" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1240" y="1789" />
-              <mxPoint x="1240" y="837" />
-            </Array>
+            <mxPoint x="1170" y="1200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9AZgSfdLY5VxS2SZ-R8a-81" value="If the Photo does not matches with the existing EPIC PHOTO" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -395,7 +391,7 @@
           <mxGeometry x="810" y="2080" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="9AZgSfdLY5VxS2SZ-R8a-100" value="Voter identified as Genuine. Voter must be allowed to cast the vote." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="1690" width="270" height="80" as="geometry" />
+          <mxGeometry x="1330" y="1900" width="270" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
