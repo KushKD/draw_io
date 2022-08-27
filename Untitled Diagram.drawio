@@ -1,24 +1,143 @@
-<mxfile host="app.diagrams.net" modified="2022-08-27T00:47:20.136Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.63" etag="Aw7_dapiOFaO8LKqAI_U" version="20.2.7" type="github">
-  <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2022-08-27T01:27:56.714Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.63" etag="4MaNNjzrLIZMWLNuGkpL" version="20.2.7" type="github" pages="2">
+  <diagram name="Operator" id="c7558073-3199-34d8-9f00-42111426c3f3">
+    <mxGraphModel dx="1695" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="GHdDQz3oRMxJ8-lzVNFq-96" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="350" width="60" height="40" as="geometry" />
+          <mxGeometry x="105" y="80" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GHdDQz3oRMxJ8-lzVNFq-97" value="Voter comes to cast vote on the Polling Day" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="585" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GHdDQz3oRMxJ8-lzVNFq-98" value="Operator Login in to the Application&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="413" y="350" width="120" height="60" as="geometry" />
+        <mxCell id="GHdDQz3oRMxJ8-lzVNFq-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="GHdDQz3oRMxJ8-lzVNFq-98" target="GHdDQz3oRMxJ8-lzVNFq-103">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GHdDQz3oRMxJ8-lzVNFq-99" value="Using Login Credentials&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="300" width="120" height="60" as="geometry" />
+        <mxCell id="GHdDQz3oRMxJ8-lzVNFq-98" value="Login Screen of the Application&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GHdDQz3oRMxJ8-lzVNFq-100" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="390" width="120" height="60" as="geometry" />
+        <mxCell id="GHdDQz3oRMxJ8-lzVNFq-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="GHdDQz3oRMxJ8-lzVNFq-100" target="GHdDQz3oRMxJ8-lzVNFq-115">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="GHdDQz3oRMxJ8-lzVNFq-100" value="Operator to Download the Electoral Roll Data for that specific Polling Station using Pin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="540" width="125" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="GHdDQz3oRMxJ8-lzVNFq-101" value="OPERATOR" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="45" y="150" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GHdDQz3oRMxJ8-lzVNFq-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="GHdDQz3oRMxJ8-lzVNFq-103" target="GHdDQz3oRMxJ8-lzVNFq-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GHdDQz3oRMxJ8-lzVNFq-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="GHdDQz3oRMxJ8-lzVNFq-103" target="GHdDQz3oRMxJ8-lzVNFq-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GHdDQz3oRMxJ8-lzVNFq-103" value="Authentication of&amp;nbsp;&lt;br&gt;Operator" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="310" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="GHdDQz3oRMxJ8-lzVNFq-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="GHdDQz3oRMxJ8-lzVNFq-104" target="GHdDQz3oRMxJ8-lzVNFq-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GHdDQz3oRMxJ8-lzVNFq-104" value="Authentication Successful" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GHdDQz3oRMxJ8-lzVNFq-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="GHdDQz3oRMxJ8-lzVNFq-106" target="GHdDQz3oRMxJ8-lzVNFq-98">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-10" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-55" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GHdDQz3oRMxJ8-lzVNFq-106" value="Authentication not successful" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="335" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GHdDQz3oRMxJ8-lzVNFq-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="GHdDQz3oRMxJ8-lzVNFq-115" target="GHdDQz3oRMxJ8-lzVNFq-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GHdDQz3oRMxJ8-lzVNFq-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="GHdDQz3oRMxJ8-lzVNFq-115" target="GHdDQz3oRMxJ8-lzVNFq-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GHdDQz3oRMxJ8-lzVNFq-115" value="Validation&lt;br&gt;of&lt;br&gt;Pin" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="650" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="GHdDQz3oRMxJ8-lzVNFq-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="GHdDQz3oRMxJ8-lzVNFq-116" target="GHdDQz3oRMxJ8-lzVNFq-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GHdDQz3oRMxJ8-lzVNFq-116" value="Pin&amp;nbsp; Not Validated" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="665" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GHdDQz3oRMxJ8-lzVNFq-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="GHdDQz3oRMxJ8-lzVNFq-118" target="GHdDQz3oRMxJ8-lzVNFq-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GHdDQz3oRMxJ8-lzVNFq-118" value="Pin Validated, Data Downloaded in Internal Memory for offline usage" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="58.75" y="770" width="152.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GHdDQz3oRMxJ8-lzVNFq-121" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Operator Contacts the Presiding Officer for generation of new Pin" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="560" width="220" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="GHdDQz3oRMxJ8-lzVNFq-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="GHdDQz3oRMxJ8-lzVNFq-128" target="GHdDQz3oRMxJ8-lzVNFq-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mUlHBePX90zy0dekhjB--2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="GHdDQz3oRMxJ8-lzVNFq-128">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="135" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GHdDQz3oRMxJ8-lzVNFq-128" value="Downloaded Data to be viewed and- verified by Presiding Officer" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="75" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GHdDQz3oRMxJ8-lzVNFq-129" value="Provision to download the PDF to view the complete Electoral Roll&amp;nbsp; Data for Verification" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="880" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mUlHBePX90zy0dekhjB--4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="mUlHBePX90zy0dekhjB--1" target="mUlHBePX90zy0dekhjB--3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mUlHBePX90zy0dekhjB--6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="mUlHBePX90zy0dekhjB--1" target="mUlHBePX90zy0dekhjB--5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mUlHBePX90zy0dekhjB--1" value="Data &lt;br&gt;Verification" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="91" y="979" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mUlHBePX90zy0dekhjB--8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="mUlHBePX90zy0dekhjB--3" target="mUlHBePX90zy0dekhjB--7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mUlHBePX90zy0dekhjB--3" value="Data Not Verified" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-94" y="994" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mUlHBePX90zy0dekhjB--13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="mUlHBePX90zy0dekhjB--5" target="mUlHBePX90zy0dekhjB--12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mUlHBePX90zy0dekhjB--5" value="Data Verified" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="76" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mUlHBePX90zy0dekhjB--10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="mUlHBePX90zy0dekhjB--7" target="mUlHBePX90zy0dekhjB--9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-330" y="740" />
+              <mxPoint x="-330" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mUlHBePX90zy0dekhjB--7" value="Intermate the SEC HQ&amp;nbsp; Helpdesk for updation of Data from the Backend" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="994" width="236" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mUlHBePX90zy0dekhjB--11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.2;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;" edge="1" parent="1" source="mUlHBePX90zy0dekhjB--9" target="GHdDQz3oRMxJ8-lzVNFq-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mUlHBePX90zy0dekhjB--9" value="Downloading of Data from the Central Server Again&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mUlHBePX90zy0dekhjB--12" value="Presiding Officer Enters the PIN and Handover the Tablet Device to the Operator for Verification and authentication of the Voter using Face Recognition System&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="276" y="1090" width="244" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="RlYxuOjdtr7DHh3LUo6h" name="Voter">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
