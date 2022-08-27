@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-27T10:30:21.900Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.63" etag="oQ363quszbgsGSCwYFcD" version="20.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-27T10:52:14.283Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.63" etag="yp4Y5xt_mS1pOUMuQ-0d" version="20.2.7" type="github" pages="2">
   <diagram name="Operator" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1776" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFCFC" math="0" shadow="1">
       <root>
@@ -154,7 +154,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RlYxuOjdtr7DHh3LUo6h" name="Voter">
-    <mxGraphModel dx="1287" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5693" dy="3120" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -212,13 +212,8 @@
         <mxCell id="zMOr3xyqeq_bbGQRhSPb-19" value="Yes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zMOr3xyqeq_bbGQRhSPb-21" target="9AZgSfdLY5VxS2SZ-R8a-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="900" y="620" />
-              <mxPoint x="900" y="375" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zMOr3xyqeq_bbGQRhSPb-21" target="9AZgSfdLY5VxS2SZ-R8a-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zMOr3xyqeq_bbGQRhSPb-21" value="No" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="590" width="120" height="60" as="geometry" />
@@ -227,7 +222,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zMOr3xyqeq_bbGQRhSPb-23" value="Operator Initiates the Authentication Process using the Mobile Application" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="890" width="120" height="60" as="geometry" />
+          <mxGeometry x="315" y="890" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zMOr3xyqeq_bbGQRhSPb-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zMOr3xyqeq_bbGQRhSPb-25" target="zMOr3xyqeq_bbGQRhSPb-29">
           <mxGeometry relative="1" as="geometry" />
@@ -265,48 +260,6 @@
         <mxCell id="9AZgSfdLY5VxS2SZ-R8a-3" value="Voter Not Found" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9AZgSfdLY5VxS2SZ-R8a-7" target="9AZgSfdLY5VxS2SZ-R8a-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-7" value="Register the Voter by capturing the Photo along with document proof like Aadhaar card,, pan card , time of registration and lace or polling booth where registered." style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="310" width="360" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9AZgSfdLY5VxS2SZ-R8a-9" target="9AZgSfdLY5VxS2SZ-R8a-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9AZgSfdLY5VxS2SZ-R8a-9" target="9AZgSfdLY5VxS2SZ-R8a-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-9" value="check for Internet Connectivity" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="545" width="140" height="95" as="geometry" />
-        </mxCell>
-        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9AZgSfdLY5VxS2SZ-R8a-11" target="9AZgSfdLY5VxS2SZ-R8a-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-11" value="Internet Available" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="737.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9AZgSfdLY5VxS2SZ-R8a-13" target="9AZgSfdLY5VxS2SZ-R8a-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-13" value="Internet &lt;br&gt;Not Available" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="562.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-15" value="Upload the Data to the Central Server. Matching of data in this case will be 1:N based at District Level, ULB Level and Ward Level." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="877.5" width="330" height="152.5" as="geometry" />
-        </mxCell>
-        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9AZgSfdLY5VxS2SZ-R8a-17" target="9AZgSfdLY5VxS2SZ-R8a-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-17" value="Data will be stored locally in the Internal Memory. Matching of Face parameters will be 1:1 only on the Local data available." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="562.5" width="260" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9AZgSfdLY5VxS2SZ-R8a-20" target="9AZgSfdLY5VxS2SZ-R8a-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-20" value="Data to be synced to Central Server when&lt;br&gt;&amp;nbsp;network is available or from a defined location where internet is available." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1980" y="556.88" width="320" height="71.25" as="geometry" />
-        </mxCell>
         <mxCell id="9AZgSfdLY5VxS2SZ-R8a-24" value="Candidate Found" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="465" width="120" height="80" as="geometry" />
         </mxCell>
@@ -315,51 +268,25 @@
             <mxPoint x="420" y="1550" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9AZgSfdLY5VxS2SZ-R8a-27" target="9AZgSfdLY5VxS2SZ-R8a-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9AZgSfdLY5VxS2SZ-R8a-27" value="Capture the Photo&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="1330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9AZgSfdLY5VxS2SZ-R8a-30" target="9AZgSfdLY5VxS2SZ-R8a-67">
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.115;entryY=1.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9AZgSfdLY5VxS2SZ-R8a-30" target="9AZgSfdLY5VxS2SZ-R8a-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9AZgSfdLY5VxS2SZ-R8a-30" value="Capture the Photo of the Voter&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="950" width="250" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9AZgSfdLY5VxS2SZ-R8a-44" target="9AZgSfdLY5VxS2SZ-R8a-45">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9AZgSfdLY5VxS2SZ-R8a-44" target="9AZgSfdLY5VxS2SZ-R8a-46">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-44" value="check for Internet Connectivity" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="781" y="1190" width="140" height="95" as="geometry" />
-        </mxCell>
-        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9AZgSfdLY5VxS2SZ-R8a-45" target="9AZgSfdLY5VxS2SZ-R8a-70">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-45" value="Internet Available" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="791" y="1400" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-46" value="Internet &lt;br&gt;Not Available" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1011" y="1160.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="9AZgSfdLY5VxS2SZ-R8a-56">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1131" y="1190.5" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9AZgSfdLY5VxS2SZ-R8a-56" target="9AZgSfdLY5VxS2SZ-R8a-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-56" value="Data will be stored locally in the Internal Memory. Matching of Face parameters will be 1:1 only on the Local data available." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1211" y="1160.5" width="260" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9AZgSfdLY5VxS2SZ-R8a-59" target="9AZgSfdLY5VxS2SZ-R8a-72">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="9AZgSfdLY5VxS2SZ-R8a-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9AZgSfdLY5VxS2SZ-R8a-59" target="9AZgSfdLY5VxS2SZ-R8a-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-59" value="Perform Authentication i.e. Match the Photo with the Central Server using 1:N Matching Technique" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.006;entryY=0.639;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9AZgSfdLY5VxS2SZ-R8a-59" target="9AZgSfdLY5VxS2SZ-R8a-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-59" value="Perform Authentication i.e. Match the Photo with the EPIC PHOTO" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="1790" width="229" height="94.5" as="geometry" />
         </mxCell>
         <mxCell id="9AZgSfdLY5VxS2SZ-R8a-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9AZgSfdLY5VxS2SZ-R8a-61" target="9AZgSfdLY5VxS2SZ-R8a-59">
@@ -368,23 +295,106 @@
         <mxCell id="9AZgSfdLY5VxS2SZ-R8a-61" value="Internet Available" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="1630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.373;entryY=0.066;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9AZgSfdLY5VxS2SZ-R8a-67" target="9AZgSfdLY5VxS2SZ-R8a-44">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9AZgSfdLY5VxS2SZ-R8a-74" target="9AZgSfdLY5VxS2SZ-R8a-87">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1180" y="2020" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-67" value="Register the Voter by capturing the Photo along with document proof like Aadhaar card,, pan card , time of registration and lace or polling booth where registered." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="620" y="1080.5" width="425.5" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-70" value="Upload the Data to the Central Server. Matching of data in this case will be 1:N based at District Level, ULB Level and Ward Level." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="686" y="1520" width="330" height="152.5" as="geometry" />
-        </mxCell>
-        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-72" value="Notification to be sent to the SEC HQ about the bogus voter if the captured photo already exists.&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="1981.75" width="195.5" height="98.25" as="geometry" />
-        </mxCell>
-        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-74" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="364.5" y="1981.75" width="120" height="60" as="geometry" />
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-74" value="If the Photo matches with the existing EPIC PHOTO" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364.5" y="1981.75" width="265.5" height="78.25" as="geometry" />
         </mxCell>
         <mxCell id="9AZgSfdLY5VxS2SZ-R8a-76" value="check for Internet Connectivity" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="1450" width="140" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-78" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1160" y="710" width="1300" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-7" value="Register the Voter by capturing the Photo along with document proof like Aadhaar card,, pan card , time of registration and lace or polling booth where registered." style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="9AZgSfdLY5VxS2SZ-R8a-78">
+          <mxGeometry width="360" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-9" value="check for Internet Connectivity" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="9AZgSfdLY5VxS2SZ-R8a-78">
+          <mxGeometry x="140" y="235" width="140" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="9AZgSfdLY5VxS2SZ-R8a-78" source="9AZgSfdLY5VxS2SZ-R8a-7" target="9AZgSfdLY5VxS2SZ-R8a-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-11" value="Internet Available" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="9AZgSfdLY5VxS2SZ-R8a-78">
+          <mxGeometry x="150" y="427.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="9AZgSfdLY5VxS2SZ-R8a-78" source="9AZgSfdLY5VxS2SZ-R8a-9" target="9AZgSfdLY5VxS2SZ-R8a-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-13" value="Internet &lt;br&gt;Not Available" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="9AZgSfdLY5VxS2SZ-R8a-78">
+          <mxGeometry x="370" y="252.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="9AZgSfdLY5VxS2SZ-R8a-78" source="9AZgSfdLY5VxS2SZ-R8a-9" target="9AZgSfdLY5VxS2SZ-R8a-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-15" value="Upload the Data to the Central Server.&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="9AZgSfdLY5VxS2SZ-R8a-78">
+          <mxGeometry x="160" y="567.5" width="330" height="72.5" as="geometry" />
+        </mxCell>
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="9AZgSfdLY5VxS2SZ-R8a-78" source="9AZgSfdLY5VxS2SZ-R8a-11" target="9AZgSfdLY5VxS2SZ-R8a-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-17" value="Data will be stored locally in the Internal Memory. Matching of Face parameters will be 1:1 only on the Local data available." style="whiteSpace=wrap;html=1;" vertex="1" parent="9AZgSfdLY5VxS2SZ-R8a-78">
+          <mxGeometry x="570" y="252.5" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="9AZgSfdLY5VxS2SZ-R8a-78" source="9AZgSfdLY5VxS2SZ-R8a-13" target="9AZgSfdLY5VxS2SZ-R8a-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="9AZgSfdLY5VxS2SZ-R8a-78" source="9AZgSfdLY5VxS2SZ-R8a-20" target="9AZgSfdLY5VxS2SZ-R8a-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-20" value="Data to be synced to Central Server when&lt;br&gt;&amp;nbsp;network is available or from a defined location where internet is available." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="9AZgSfdLY5VxS2SZ-R8a-78">
+          <mxGeometry x="980" y="246.88" width="320" height="71.25" as="geometry" />
+        </mxCell>
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="9AZgSfdLY5VxS2SZ-R8a-78" source="9AZgSfdLY5VxS2SZ-R8a-17" target="9AZgSfdLY5VxS2SZ-R8a-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9AZgSfdLY5VxS2SZ-R8a-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1260" y="836.9230769230769" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1240" y="1789" />
+              <mxPoint x="1240" y="837" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-81" value="If the Photo does not matches with the existing EPIC PHOTO" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="1750" width="265.5" height="78.25" as="geometry" />
+        </mxCell>
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9AZgSfdLY5VxS2SZ-R8a-87" target="9AZgSfdLY5VxS2SZ-R8a-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9AZgSfdLY5VxS2SZ-R8a-87" target="9AZgSfdLY5VxS2SZ-R8a-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-87" value="Match the Photo inside the Central Database. Matching of data in this case will be 1:N based at District Level, ULB Level and Ward Level." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="1940" width="430" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9AZgSfdLY5VxS2SZ-R8a-90" target="9AZgSfdLY5VxS2SZ-R8a-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-90" value="If Photo&lt;br&gt;Exists" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="1940" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9AZgSfdLY5VxS2SZ-R8a-91" target="9AZgSfdLY5VxS2SZ-R8a-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-91" value="Notification to be sent to the SEC HQ about the bogus voter if the captured photo already exists in the Central Database. Alert on Central Dashboard to be made." style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1870" y="1925.88" width="245.25" height="154.12" as="geometry" />
+        </mxCell>
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-94" value="Stop the Voter to cast the Vote" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="2257.875" y="1972.94" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.456;entryY=1.046;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9AZgSfdLY5VxS2SZ-R8a-96" target="9AZgSfdLY5VxS2SZ-R8a-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-96" value="If Photo&lt;br&gt;Does Exists" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="1640" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-100" value="Voter identified as Genuine. Voter must be allowed to cast the vote." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="1440" width="270" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
