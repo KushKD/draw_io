@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-27T11:13:35.351Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.63" etag="Oboxt8L-iotulmfVt_cP" version="20.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-27T11:14:28.676Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.63" etag="uOFCrK14K8KSzFl26AxA" version="20.2.7" type="github" pages="2">
   <diagram name="Operator" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1776" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFCFC" math="0" shadow="1">
       <root>
@@ -154,7 +154,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RlYxuOjdtr7DHh3LUo6h" name="Voter">
-    <mxGraphModel dx="899" dy="493" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="1">
+    <mxGraphModel dx="1220" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
