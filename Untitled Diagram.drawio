@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-27T10:52:14.283Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.63" etag="yp4Y5xt_mS1pOUMuQ-0d" version="20.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-27T10:54:22.962Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.63" etag="j2Ctg7v09OxvFsaZfIrs" version="20.2.7" type="github" pages="2">
   <diagram name="Operator" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1776" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFCFC" math="0" shadow="1">
       <root>
@@ -154,7 +154,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RlYxuOjdtr7DHh3LUo6h" name="Voter">
-    <mxGraphModel dx="5693" dy="3120" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1314" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -286,7 +286,7 @@
         <mxCell id="9AZgSfdLY5VxS2SZ-R8a-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.006;entryY=0.639;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9AZgSfdLY5VxS2SZ-R8a-59" target="9AZgSfdLY5VxS2SZ-R8a-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-59" value="Perform Authentication i.e. Match the Photo with the EPIC PHOTO" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-59" value="Perform Authentication i.e. Match the Captured Photo with the EPIC PHOTO" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="1790" width="229" height="94.5" as="geometry" />
         </mxCell>
         <mxCell id="9AZgSfdLY5VxS2SZ-R8a-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9AZgSfdLY5VxS2SZ-R8a-61" target="9AZgSfdLY5VxS2SZ-R8a-59">
@@ -330,7 +330,7 @@
         <mxCell id="9AZgSfdLY5VxS2SZ-R8a-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="9AZgSfdLY5VxS2SZ-R8a-78" source="9AZgSfdLY5VxS2SZ-R8a-9" target="9AZgSfdLY5VxS2SZ-R8a-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-15" value="Upload the Data to the Central Server.&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="9AZgSfdLY5VxS2SZ-R8a-78">
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-15" value="Upload the Data to the Central Server.&amp;nbsp; Dashboards to be updated on real time basis." style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="9AZgSfdLY5VxS2SZ-R8a-78">
           <mxGeometry x="160" y="567.5" width="330" height="72.5" as="geometry" />
         </mxCell>
         <mxCell id="9AZgSfdLY5VxS2SZ-R8a-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="9AZgSfdLY5VxS2SZ-R8a-78" source="9AZgSfdLY5VxS2SZ-R8a-11" target="9AZgSfdLY5VxS2SZ-R8a-15">
@@ -390,7 +390,7 @@
         <mxCell id="9AZgSfdLY5VxS2SZ-R8a-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.456;entryY=1.046;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9AZgSfdLY5VxS2SZ-R8a-96" target="9AZgSfdLY5VxS2SZ-R8a-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-96" value="If Photo&lt;br&gt;Does Exists" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-96" value="If Photo&lt;br&gt;Does not Exists" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1490" y="1640" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="9AZgSfdLY5VxS2SZ-R8a-100" value="Voter identified as Genuine. Voter must be allowed to cast the vote." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
