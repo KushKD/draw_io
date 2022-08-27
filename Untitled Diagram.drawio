@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-08-27T01:27:56.714Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.63" etag="4MaNNjzrLIZMWLNuGkpL" version="20.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-27T01:32:33.871Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.63" etag="1wTtrD1ouClMGLopQhZd" version="20.2.7" type="github" pages="2">
   <diagram name="Operator" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1695" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2067" dy="689" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFE599" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="GHdDQz3oRMxJ8-lzVNFq-96" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="105" y="80" width="75" height="50" as="geometry" />
+          <mxGeometry x="98.5" y="153" width="75" height="49" as="geometry" />
         </mxCell>
         <mxCell id="GHdDQz3oRMxJ8-lzVNFq-97" value="Voter comes to cast vote on the Polling Day" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="585" width="120" height="60" as="geometry" />
@@ -21,9 +21,6 @@
         </mxCell>
         <mxCell id="GHdDQz3oRMxJ8-lzVNFq-100" value="Operator to Download the Electoral Roll Data for that specific Polling Station using Pin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="75" y="540" width="125" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="GHdDQz3oRMxJ8-lzVNFq-101" value="OPERATOR" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="45" y="150" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GHdDQz3oRMxJ8-lzVNFq-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="GHdDQz3oRMxJ8-lzVNFq-103" target="GHdDQz3oRMxJ8-lzVNFq-104">
           <mxGeometry relative="1" as="geometry" />
