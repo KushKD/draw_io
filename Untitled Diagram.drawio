@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-27T10:54:22.962Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.63" etag="j2Ctg7v09OxvFsaZfIrs" version="20.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-27T10:55:56.196Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.63" etag="0KzWmAddL5axTPgbA_hu" version="20.2.7" type="github" pages="2">
   <diagram name="Operator" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1776" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFCFC" math="0" shadow="1">
       <root>
@@ -154,7 +154,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RlYxuOjdtr7DHh3LUo6h" name="Voter">
-    <mxGraphModel dx="1314" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1708" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -263,16 +263,11 @@
         <mxCell id="9AZgSfdLY5VxS2SZ-R8a-24" value="Candidate Found" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="465" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="9AZgSfdLY5VxS2SZ-R8a-61">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="1550" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9AZgSfdLY5VxS2SZ-R8a-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9AZgSfdLY5VxS2SZ-R8a-27" target="9AZgSfdLY5VxS2SZ-R8a-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9AZgSfdLY5VxS2SZ-R8a-27" value="Capture the Photo&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1330" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="1280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9AZgSfdLY5VxS2SZ-R8a-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.115;entryY=1.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9AZgSfdLY5VxS2SZ-R8a-30" target="9AZgSfdLY5VxS2SZ-R8a-7">
           <mxGeometry relative="1" as="geometry" />
@@ -283,28 +278,29 @@
         <mxCell id="9AZgSfdLY5VxS2SZ-R8a-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9AZgSfdLY5VxS2SZ-R8a-59" target="9AZgSfdLY5VxS2SZ-R8a-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.006;entryY=0.639;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9AZgSfdLY5VxS2SZ-R8a-59" target="9AZgSfdLY5VxS2SZ-R8a-81">
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9AZgSfdLY5VxS2SZ-R8a-59" target="9AZgSfdLY5VxS2SZ-R8a-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9AZgSfdLY5VxS2SZ-R8a-59" value="Perform Authentication i.e. Match the Captured Photo with the EPIC PHOTO" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1790" width="229" height="94.5" as="geometry" />
+          <mxGeometry x="305.5" y="1580" width="229" height="94.5" as="geometry" />
         </mxCell>
         <mxCell id="9AZgSfdLY5VxS2SZ-R8a-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9AZgSfdLY5VxS2SZ-R8a-61" target="9AZgSfdLY5VxS2SZ-R8a-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9AZgSfdLY5VxS2SZ-R8a-61" value="Internet Available" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1630" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="1490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9AZgSfdLY5VxS2SZ-R8a-74" target="9AZgSfdLY5VxS2SZ-R8a-87">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1180" y="2020" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="VhGnKwX6kAZQi_XrQKIG-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.302;entryY=-0.035;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9AZgSfdLY5VxS2SZ-R8a-74" target="9AZgSfdLY5VxS2SZ-R8a-87">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9AZgSfdLY5VxS2SZ-R8a-74" value="If the Photo matches with the existing EPIC PHOTO" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="364.5" y="1981.75" width="265.5" height="78.25" as="geometry" />
+          <mxGeometry x="287.25" y="1840" width="265.5" height="78.25" as="geometry" />
+        </mxCell>
+        <mxCell id="VhGnKwX6kAZQi_XrQKIG-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9AZgSfdLY5VxS2SZ-R8a-76" target="9AZgSfdLY5VxS2SZ-R8a-61">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9AZgSfdLY5VxS2SZ-R8a-76" value="check for Internet Connectivity" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="1450" width="140" height="95" as="geometry" />
+          <mxGeometry x="350" y="1360" width="140" height="95" as="geometry" />
         </mxCell>
         <mxCell id="9AZgSfdLY5VxS2SZ-R8a-78" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1160" y="710" width="1300" height="720" as="geometry" />
@@ -370,7 +366,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9AZgSfdLY5VxS2SZ-R8a-87" value="Match the Photo inside the Central Database. Matching of data in this case will be 1:N based at District Level, ULB Level and Ward Level." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="1940" width="430" height="110" as="geometry" />
+          <mxGeometry x="220" y="2090" width="430" height="110" as="geometry" />
         </mxCell>
         <mxCell id="9AZgSfdLY5VxS2SZ-R8a-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9AZgSfdLY5VxS2SZ-R8a-90" target="9AZgSfdLY5VxS2SZ-R8a-91">
           <mxGeometry relative="1" as="geometry" />
