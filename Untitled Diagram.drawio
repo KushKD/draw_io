@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-27T10:09:08.375Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.63" etag="IBIOFF5KaJd6AapFHwra" version="20.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-27T10:15:59.981Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.63" etag="Mph8parNakQUfYcf1fcE" version="20.2.7" type="github" pages="2">
   <diagram name="Operator" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1776" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFCFC" math="0" shadow="1">
       <root>
@@ -154,7 +154,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RlYxuOjdtr7DHh3LUo6h" name="Voter">
-    <mxGraphModel dx="1823" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1683" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -244,13 +244,8 @@
         <mxCell id="zMOr3xyqeq_bbGQRhSPb-29" value="Yes" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="1160" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.115;entryY=1.041;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zMOr3xyqeq_bbGQRhSPb-31" target="9AZgSfdLY5VxS2SZ-R8a-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1040" y="980" />
-              <mxPoint x="1040" y="440" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zMOr3xyqeq_bbGQRhSPb-31" target="9AZgSfdLY5VxS2SZ-R8a-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zMOr3xyqeq_bbGQRhSPb-31" value="No" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="950" width="120" height="60" as="geometry" />
@@ -315,8 +310,43 @@
         <mxCell id="9AZgSfdLY5VxS2SZ-R8a-24" value="Candidate Found" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="465" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9AZgSfdLY5VxS2SZ-R8a-27" target="9AZgSfdLY5VxS2SZ-R8a-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9AZgSfdLY5VxS2SZ-R8a-27" value="Capture the Photo&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="1330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9AZgSfdLY5VxS2SZ-R8a-30" target="9AZgSfdLY5VxS2SZ-R8a-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-30" value="Capture the Photo of the Voter&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="950" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9AZgSfdLY5VxS2SZ-R8a-44" target="9AZgSfdLY5VxS2SZ-R8a-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9AZgSfdLY5VxS2SZ-R8a-44" target="9AZgSfdLY5VxS2SZ-R8a-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-44" value="check for Internet Connectivity" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="781" y="1143" width="140" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-45" value="Internet Available" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="791" y="1335.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-46" value="Internet &lt;br&gt;Not Available" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1011" y="1160.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="9AZgSfdLY5VxS2SZ-R8a-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1131" y="1190.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9AZgSfdLY5VxS2SZ-R8a-56" target="9AZgSfdLY5VxS2SZ-R8a-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9AZgSfdLY5VxS2SZ-R8a-56" value="Data will be stored locally in the Internal Memory. Matching of Face parameters will be 1:1 only on the Local data available." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1211" y="1160.5" width="260" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
